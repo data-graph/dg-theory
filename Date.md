@@ -1,5 +1,10 @@
 # Date
 
+## Table of Contents
+
+1. [Properties](#properties)
+2. [Operations](#operations)
+
 ## Properties
 
 - [Day](#day)
