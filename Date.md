@@ -25,7 +25,8 @@
 
 ### Year
 - Data Type: Integer
-- Constraints: 1 ≤ x ≤ 12
+- Constraints:
+  - 1 ≤ x ≤ 12
 - Programming Type: intMax (-∞ ≤ x ≤ ∞)
 
 ## Operations
