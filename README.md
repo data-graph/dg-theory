@@ -1,5 +1,5 @@
 # dg-theory
 
-Everything theoretically about DataGraph.
+Every theoretical aspect of Data Graph.
 
 - [Date](Date.md)
